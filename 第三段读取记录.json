@@ -1,0 +1,22 @@
+{
+  "source": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+  "scope": "本地抽样比较，不上传或改原片",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/third-overview.jpg",
+      "purpose": "每2秒抽样画面，保留复核证据",
+      "exists": true,
+      "bytes": 101821
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/third-frame-08.jpg",
+      "purpose": "8秒细看画面，保留复核证据",
+      "exists": true,
+      "bytes": 53735
+    }
+  ],
+  "duration": 19.77,
+  "resolution": "2160x3840",
+  "fps": 59.98,
+  "status": "画面抽样已读取，未听音"
+}

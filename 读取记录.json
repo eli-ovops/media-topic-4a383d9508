@@ -1,0 +1,33 @@
+{
+  "source": "/Users/USER/Downloads/25011a2a358cac7e2b9e7a17743b36ab_raw.mp4",
+  "duration": 19.7,
+  "resolution": "2160x3840",
+  "fps": 59.99,
+  "mode": "本地画面抽样，不上传原片",
+  "planned_outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/overview.jpg",
+      "purpose": "每2秒抽帧的画面概览，保留验收证据",
+      "exists": true,
+      "bytes": 78198
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/frame-04.jpg",
+      "purpose": "4秒原始画面缩放用于检查眼神与构图",
+      "exists": true,
+      "bytes": 45516
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/frame-12.jpg",
+      "purpose": "12秒原始画面缩放用于检查眼神与构图",
+      "exists": true,
+      "bytes": 49633
+    }
+  ],
+  "status": "原片已读取，抽样画面已看；未听音或转录",
+  "audio_level": {
+    "mean_volume_db": -23.2,
+    "max_volume_db": -2.0,
+    "scope": "仅电平分析"
+  }
+}

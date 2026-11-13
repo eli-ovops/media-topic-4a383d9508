@@ -1,0 +1,26 @@
+{
+  "source": "/Users/USER/Downloads/2115bdd173a18319d3038ed07d2424a4_raw.mp4",
+  "scope": "本地原片画面抽样，与第一段比较，不上传、不修改原片",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/second-overview.jpg",
+      "purpose": "每2秒抽样概览，保留复核证据",
+      "exists": true,
+      "bytes": 104443
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/second-frame-04.jpg",
+      "purpose": "4秒画面细看，保留复核证据",
+      "exists": true,
+      "bytes": 63966
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/试拍复核-20261007/second-frame-12.jpg",
+      "purpose": "12秒画面细看，保留复核证据",
+      "exists": true,
+      "bytes": 57606
+    }
+  ],
+  "duration": 19.82,
+  "status": "三个抽样画面已读取，未听音"
+}
